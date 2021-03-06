@@ -1,0 +1,1 @@
+INSERT INTO product(name, price) VALUES ('Earrings', 5000), ('Ring', 5000), ('Watch', 5000), ('Bracelet', 5000), ('Charm', 5000);

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ead30090-7e01-44d0-9d33-3d749bb92dfb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../day07/ex00/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day07/ex00/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day07/ex00/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day07/ex00/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day07/ex00/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day07/ex00/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day07/ex00/Reflection.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day07/ex00/src/main/java/edu/school21/app/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day07/ex00/src/main/java/edu/school21/models/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day07/ex00/src/main/java/edu/school21/models/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1oF5caktAySGVex5vmqoWktWL2b" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="hsqldb" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sokol\Documents\java\day06\ex01\src\test\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.NumberWorkerTest.isDigitSum">
+    <configuration name="EmbeddedDataSourceTest.testConnection" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Tests" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.school21.repositories.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.school21.repositories" />
+      <option name="MAIN_CLASS_NAME" value="edu.school21.repositories.EmbeddedDataSourceTest" />
+      <option name="METHOD_NAME" value="testConnection" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumberWorkerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Tests" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.school21.numbers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.school21.numbers" />
+      <option name="MAIN_CLASS_NAME" value="edu.school21.numbers.NumberWorkerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumberWorkerTest.isDigitSum" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Tests" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.school21.numbers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.school21.numbers" />
+      <option name="MAIN_CLASS_NAME" value="edu.school21.numbers.NumberWorkerTest" />
+      <option name="METHOD_NAME" value="isDigitSum(int,int)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.NumberWorkerTest.isDigitSum" />
+        <item itemvalue="JUnit.NumberWorkerTest" />
+        <item itemvalue="JUnit.EmbeddedDataSourceTest.testConnection" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ead30090-7e01-44d0-9d33-3d749bb92dfb" name="Default Changelist" comment="" />
+      <created>1612869578383</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612869578383</updated>
+      <workItem from="1612869579712" duration="6056000" />
+      <workItem from="1612946286957" duration="710000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Tests$EmbeddedDataSourceTest_testConnection.ic" NAME="EmbeddedDataSourceTest.testConnection Coverage Results" MODIFIED="1612877385716" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>edu.school21.repositories.*</FILTER>
+    </SUITE>
+  </component>
+</project>
